@@ -1,0 +1,32 @@
+D:\SQLFinalProject\FinalProject\bin\Debug\SalesDBData.mdf
+D:\SQLFinalProject\FinalProject\bin\Debug\SalesDBData_log.ldf
+D:\SQLFinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\SQLFinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\SQLFinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.AddCustomers.resources
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.DeleteCustomer.resources
+D:\SQLFinalProject\FinalProject\obj\Debug\FinalProject.UpdateCustomer.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\bin\Debug\SalesDBData.mdf
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\bin\Debug\SalesDBData_log.ldf
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.AddCustomers.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.DeleteCustomer.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.UpdateCustomer.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Karan\Humber\Sem 2\Windows App Dev using C#\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
